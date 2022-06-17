@@ -1,2 +1,4 @@
-# arbolesDecision
-Ejemplo de código en Python sobre los métodos basados en árboles de desición. 
+# Métodos basados en árboles 
+### Capitulo 8 de ISLR. 
+--- 
+- Bagging & Random Forest
